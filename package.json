@@ -1,0 +1,19 @@
+{
+  "name": "quan-ly-ghi-chu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangquocdung/quan-ly-ghi-chu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dangquocdung/quan-ly-ghi-chu/issues"
+  },
+  "homepage": "https://github.com/dangquocdung/quan-ly-ghi-chu#readme"
+}
